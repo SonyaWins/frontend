@@ -7,8 +7,8 @@ import {
     Input
 } from "reactstrap";
 
-import User from "../../models/user.js"
-import Axios from "axios";
+//import User from "../../models/user.js"
+//import Axios from "axios";
 
 export default function SignUp(props) {
   
